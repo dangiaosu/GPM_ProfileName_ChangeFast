@@ -37,8 +37,8 @@
 
   | ProfileName  | NewName      |
   |--------------|--------------|
-  | Test112      | NewTest112   |
-  | Test110      | NewTest110   |
+  | 001      | DanGiaoSu001  |
+  | 002      | DanGiaoSu002  |
 
 - Sau khi đổi tên, chương trình sẽ lưu thông tin cập nhật vào file **`FullInfo_DataGPM.xlsx`**.
 

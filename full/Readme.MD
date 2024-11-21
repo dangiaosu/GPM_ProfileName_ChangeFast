@@ -39,7 +39,7 @@ Công cụ Python tự động xử lý đổi tên, đổi Group ID và Proxy P
 
 Nếu bạn là coder giỏi, có thời gian hãy hỗ trợ mình sửa đoạn code dưới này nhé, hiện tại mình test đang chạy ngon lành với số lượng profiles  <5000
 
-```python
+```
 def get_profiles_list():
     url = "http://127.0.0.1:19995/api/v3/profiles"
     params = {"page": 1, "per_page": 5000, "sort": 2}
@@ -50,6 +50,7 @@ def get_profiles_list():
         logging.error(f"Không thể lấy danh sách profiles: {response.text}")
         print(f"Không thể lấy danh sách profiles. Status: {response.status_code}")
         return []
+```
 
 
 ## Liên hệ

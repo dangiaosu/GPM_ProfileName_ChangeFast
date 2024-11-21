@@ -53,11 +53,11 @@ def get_profiles_list():
 ```
 
 
-## Liên hệ
+# Liên hệ
 
-## Đan GIÁO SƯ
-**"NEVER DM YOU FIRST"** 
-**Chuyên lùa gà, nhưng vẫn ghét fake news.**
+## Đan Giaó Sư
+### NEVER DM YOU FIRST
+### Chuyên lùa gà, nhưng vẫn ghét fake news.**
 
 ### Kết nối với tôi:
 - **Facebook:** [Click here](https://www.facebook.com/Prof.Danta)

@@ -1,8 +1,8 @@
-# Đổi Tên, Group ID và Proxy Profile GPM By Đan Giáo Sư - ft ChatGpt, Claude 🚀  
+# Đổi Tên, Group ID, Proxy và cả Note Profile GPM By Đan Giáo Sư - ft ChatGpt, Claude 🚀  
 ## Tốc độ nhanh gấp 10 lần so với phương pháp sử dụng script thông thường 🚀
 ### "If you are good at something never do it for free" -Joker
 
-Công cụ Python tự động xử lý đổi tên, đổi Group ID và Proxy Profile trên GPM. Chỉ cần vài bước đơn giản, bạn đã có thể tự động hóa quy trình một cách nhanh chóng và chính xác.  
+Công cụ Python tự động xử lý đổi Tên, Group ID, Proxy và cả Note Profile trên GPM. Chỉ cần vài bước đơn giản, bạn đã có thể tự động hóa quy trình một cách nhanh chóng và chính xác.  
 
 ---
 
